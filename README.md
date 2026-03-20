@@ -5,7 +5,7 @@
 Estudante de Sistemas de Informação (UMC)  focado em desenvolvimento de software web com HTML, PHP e JavaScript. Apaixonado por tecnologia desde sempre, utilizo minha experiência prática com atendimento ao público e inteligência emocional  para criar aplicações seguras e centradas nas necessidades reais do usuário. Entusiasta de Análise de Dados e Segurança da Informação.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://github.com/LucasRSMorais?tab=repositories">
         <img 
             alt="Meu Reposítório" 
             title="Meu Repositório" 
